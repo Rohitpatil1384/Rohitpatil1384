@@ -30,8 +30,4 @@
 
 ---
 
-### 📂 Featured Repositories:
 
-- [💬 Voice Assistant](https://github.com/Rohitpatil1384/Voice-Assistant) — An AI-powered personal voice assistant built in Python  
-- [⚙️ Sports Video Analyzer](https://github.com/Rohitpatil1384/Sports-Video-Analyzer) — Analyzes player movement and performance  
-- [📊 Data Visualization Toolkit](https://github.com/Rohitpatil1384/Data-Visualization-Toolkit) — Interactive charts using Python libraries
