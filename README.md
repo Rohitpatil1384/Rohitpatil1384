@@ -27,5 +27,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=Rohitpatil1384&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rohitpatil1384&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitpatil1384&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-### 📊 GitHub Stats:
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohitpatil1384&show_icons=true&theme=tokyonight)
+
+---
+
+### 📂 Featured Repositories:
+
+- [💬 Voice Assistant](https://github.com/Rohitpatil1384/Voice-Assistant) — An AI-powered personal voice assistant built in Python  
+- [⚙️ Sports Video Analyzer](https://github.com/Rohitpatil1384/Sports-Video-Analyzer) — Analyzes player movement and performance  
+- [📊 Data Visualization Toolkit](https://github.com/Rohitpatil1384/Data-Visualization-Toolkit) — Interactive charts using Python libraries
